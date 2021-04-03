@@ -1,4 +1,4 @@
-## Project: Data Modeling with Postgres
+## Project01: Data Modeling with Postgres
 
 ## Table of contents
 * [Introduction](##introduction)
